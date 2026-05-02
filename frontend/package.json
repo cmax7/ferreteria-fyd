@@ -13,9 +13,7 @@
     "react-router-dom": "^6.21.1",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.1",
-    "axios": "^1.6.5"
-  },
-  "devDependencies": {
+    "axios": "^1.6.5",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.33",
